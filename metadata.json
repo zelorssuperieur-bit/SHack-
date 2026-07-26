@@ -1,0 +1,6 @@
+{
+  "name": "Smart Plus",
+  "description": "Esports tournament platform, gaming community, social feed, and player profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
